@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEiB;EACf,mBAAmB;EACnB,eAAe;EACf,aAAa,EACd","file":"app.css","sourcesContent":["\n\n.popover-example .popover {\n  position: relative;\n  display: block;\n  margin: 20px;\n}\n\n// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";"],"sourceRoot":"/source/"}
